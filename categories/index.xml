@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Edie&#39;s website</title>
+    <link>https://edieyt.github.io/categories/</link>
+    <description>Recent content in Categories on Edie&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 31 May 2023 19:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Course</title>
+      <link>https://edieyt.github.io/categories/online-course/</link>
+      <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/categories/online-course/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
