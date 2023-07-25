@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Edie&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 30 Jun 2023 19:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Course</title>
+      <link>https://edieyt.github.io/categories/online-course/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/categories/online-course/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Reading</title>
       <link>https://edieyt.github.io/categories/reading/</link>
@@ -22,15 +31,6 @@
       <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/categories/time-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Course</title>
-      <link>https://edieyt.github.io/categories/online-course/</link>
-      <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
-      
-      <guid>https://edieyt.github.io/categories/online-course/</guid>
       <description></description>
     </item>
     
