@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming Language on Edie&#39;s website</title>
+    <title>Programming Language on 1D Start | 1st Dot Start 一點啟 | Blog</title>
     <link>https://edieyt.github.io/tags/programming-language/</link>
-    <description>Recent content in Programming Language on Edie&#39;s website</description>
+    <description>Recent content in Programming Language on 1D Start | 1st Dot Start 一點啟 | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 31 May 2023 19:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/tags/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/tags/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>從零開始，前端技術的學習旅程</title>
+      <link>https://edieyt.github.io/blog/post-5/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-5/</guid>
+      <description>程式語言學習之旅從這裡開始 ✔ 你也好奇網站開發的奧秘嗎？
+✔ 你也想擁有自己的專屬網站嗎？
+✔ 你也是想讓程式碼不再是密碼嗎？
+一起來探索程式語言的世界吧！
+當充滿好奇心的我遇上這個猶如魔法一般、由一連串數字和指令所打造的網站，對網站開發自然深感好奇，特別是在過去的工作中曾經參與內部網站改版的專案。那段經歷讓我深刻領悟到，網頁的切版不僅是技術，更是一門學問。在機緣巧合下，我發現了一個結合我最感興趣的AI與前端開發的 2023 軟體工程師體驗營，便毫不猶豫地加入、踏上了學習切版的旅程。</description>
+    </item>
+    
     <item>
       <title>從零開始的學習挑戰賽，買了課程就拿出真本事</title>
       <link>https://edieyt.github.io/blog/post-1/</link>
       <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/blog/post-1/</guid>
-      <description>Hahow從零開始的學習挑戰賽
-從此不再讓學習成為最後一個待辦事項 你也是在充實多彩的生活中，學習只能排在最後嗎？ 你也是買了許多課，進度卻一直停在 0%？ 你也是沒有目標、沒有督促，提不起勁把課上完？ 你也是孤軍奮戰學習，導致常常半途而廢？ 感謝學習挑戰賽讓我一個月完成7.5堂課，成為今年最棒的生日禮物之一！
-作為一個線上課程愛好者，幾乎在國內外知名的線上平台上皆擁有課程，其中又以Hahow和Udemy的課程數最多，好像總有一種錯覺購課等於學會，隨著課程數量增加，學習到的知識量似乎遠不及Notion線上課程資料庫的增長。</description>
+      <description>不再讓完課成為最後一個待辦事項 ✔ 你也是在充實多彩的生活中，線上學習計畫順序只能往後排？
+✔ 你也是擁有許多課，想獲得更多學習動力？
+✔ 你也是獨自學習，想尋找學伴一同學習與交流？
+感謝Hahow從零開始的學習挑戰賽讓我一個月內完成8堂課＋第一個Github架站，成為今年最棒的生日禮物之一！
+作為一個線上課程愛好者，我的課程清單幾乎涵蓋了國內外知名線上平台，其中又以Hahow和Udemy的課程數最多，隨著課程數量增加，學習到的知識量似乎遠不及Notion線上課程資料庫的增長。</description>
     </item>
     
   </channel>

@@ -1,25 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Edie&#39;s website</title>
+    <title>Tags on 1D Start | 1st Dot Start 一點啟 | Blog</title>
     <link>https://edieyt.github.io/tags/</link>
-    <description>Recent content in Tags on Edie&#39;s website</description>
+    <description>Recent content in Tags on 1D Start | 1st Dot Start 一點啟 | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
       <link>https://edieyt.github.io/tags/english/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>AI</title>
+      <link>https://edieyt.github.io/tags/ai/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://edieyt.github.io/tags/data-visualization/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://edieyt.github.io/tags/github/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://edieyt.github.io/tags/programming-language/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireframe</title>
+      <link>https://edieyt.github.io/tags/wireframe/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/wireframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://edieyt.github.io/tags/speech/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Study skills</title>
       <link>https://edieyt.github.io/tags/study-skills/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/study-skills/</guid>
       <description></description>
@@ -28,7 +82,7 @@
     <item>
       <title>Business Strategy</title>
       <link>https://edieyt.github.io/tags/business-strategy/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/business-strategy/</guid>
       <description></description>
@@ -37,7 +91,7 @@
     <item>
       <title>Career Development</title>
       <link>https://edieyt.github.io/tags/career-development/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/career-development/</guid>
       <description></description>
@@ -46,7 +100,7 @@
     <item>
       <title>Communication</title>
       <link>https://edieyt.github.io/tags/communication/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/communication/</guid>
       <description></description>
@@ -55,7 +109,7 @@
     <item>
       <title>HTML</title>
       <link>https://edieyt.github.io/tags/html/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/html/</guid>
       <description></description>
@@ -64,7 +118,7 @@
     <item>
       <title>Logical thinking</title>
       <link>https://edieyt.github.io/tags/logical-thinking/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/logical-thinking/</guid>
       <description></description>
@@ -73,7 +127,7 @@
     <item>
       <title>Ｍarketing</title>
       <link>https://edieyt.github.io/tags/%EF%BD%8Darketing/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/%EF%BD%8Darketing/</guid>
       <description></description>
@@ -82,7 +136,7 @@
     <item>
       <title>Project Management</title>
       <link>https://edieyt.github.io/tags/project-management/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/project-management/</guid>
       <description></description>
@@ -91,7 +145,7 @@
     <item>
       <title>Time Management</title>
       <link>https://edieyt.github.io/tags/time-management/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/time-management/</guid>
       <description></description>
@@ -116,29 +170,11 @@
     </item>
     
     <item>
-      <title>Github</title>
-      <link>https://edieyt.github.io/tags/github/</link>
-      <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
-      
-      <guid>https://edieyt.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ｎotion</title>
       <link>https://edieyt.github.io/tags/%EF%BD%8Eotion/</link>
       <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/tags/%EF%BD%8Eotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://edieyt.github.io/tags/programming-language/</link>
-      <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
-      
-      <guid>https://edieyt.github.io/tags/programming-language/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireframe on 1D Start | 1st Dot Start 一點啟 | Blog</title>
+    <link>https://edieyt.github.io/tags/wireframe/</link>
+    <description>Recent content in Wireframe on 1D Start | 1st Dot Start 一點啟 | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/tags/wireframe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>從零開始，前端技術的學習旅程</title>
+      <link>https://edieyt.github.io/blog/post-5/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-5/</guid>
+      <description>程式語言學習之旅從這裡開始 ✔ 你也好奇網站開發的奧秘嗎？
+✔ 你也想擁有自己的專屬網站嗎？
+✔ 你也是想讓程式碼不再是密碼嗎？
+一起來探索程式語言的世界吧！
+當充滿好奇心的我遇上這個猶如魔法一般、由一連串數字和指令所打造的網站，對網站開發自然深感好奇，特別是在過去的工作中曾經參與內部網站改版的專案。那段經歷讓我深刻領悟到，網頁的切版不僅是技術，更是一門學問。在機緣巧合下，我發現了一個結合我最感興趣的AI與前端開發的 2023 軟體工程師體驗營，便毫不猶豫地加入、踏上了學習切版的旅程。</description>
+    </item>
+    
+  </channel>
+</rss>

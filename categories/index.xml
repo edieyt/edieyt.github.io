@@ -1,25 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Edie&#39;s website</title>
+    <title>Categories on 1D Start | 1st Dot Start 一點啟 | Blog</title>
     <link>https://edieyt.github.io/categories/</link>
-    <description>Recent content in Categories on Edie&#39;s website</description>
+    <description>Recent content in Categories on 1D Start | 1st Dot Start 一點啟 | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://edieyt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning journey</title>
+      <link>https://edieyt.github.io/categories/learning-journey/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/categories/learning-journey/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Online Course</title>
       <link>https://edieyt.github.io/categories/online-course/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/categories/online-course/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>學習分享</title>
+      <link>https://edieyt.github.io/categories/%E5%AD%B8%E7%BF%92%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/categories/%E5%AD%B8%E7%BF%92%E5%88%86%E4%BA%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://edieyt.github.io/categories/speech/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/categories/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reading</title>
       <link>https://edieyt.github.io/categories/reading/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/categories/reading/</guid>
       <description></description>
@@ -28,7 +55,7 @@
     <item>
       <title>Time Management</title>
       <link>https://edieyt.github.io/categories/time-management/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/categories/time-management/</guid>
       <description></description>

@@ -1,30 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Edie&#39;s website</title>
+    <title>blog on 1D Start | 1st Dot Start 一點啟 | Blog</title>
     <link>https://edieyt.github.io/blog/</link>
-    <description>Recent content in blog on Edie&#39;s website</description>
+    <description>Recent content in blog on 1D Start | 1st Dot Start 一點啟 | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://edieyt.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>返現計畫，助你超越多益950分大關，解鎖你的英語潛能之真實心得分享</title>
-      <link>https://edieyt.github.io/blog/post-3/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      <title>UX三刀流產品體驗設計18週共學挑戰，拓展思維邊界 </title>
+      <link>https://edieyt.github.io/blog/post-7/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0800</pubDate>
       
-      <guid>https://edieyt.github.io/blog/post-3/</guid>
-      <description>通過「返現計畫 – 多益任務」方法都在這！
-90天挑戰從這裡開始 你也是想要提升英文能力，卻苦無明確目標嗎？ 你也是英文能力有一定程度，卻似乎遇到了瓶頸？ 你也是買了不少英文教材，進度卻一直停在0%？ 你也是在充實多彩的生活中，外文學習只能排在最後？ 2個挑戰，5套教材，學習英文居然還有機會獲得額外收入，感謝Word Up陪我走過90天的挑戰 （公開發文並非返現規則要求）</description>
+      <guid>https://edieyt.github.io/blog/post-7/</guid>
+      <description>18週挑戰從這裡啟程 ✔ 你也好奇什麼是UI/UX嗎？
+✔ 你也想了解產品設計背後的秘密嗎？
+✔ 你也想提升設計思維嗎？
+快一起來看看UX共學課程都在學些什麼吧!
+作為一個對網頁開發充滿好奇的人，程式碼是我探索數位世界的起點。然而，隨著時間推移，我深深意識到了另一個同樣重要的層面：UI/UX產品體驗設計。在我開始學習程式碼之前，我對網頁的美觀和易用性已經有著濃厚的興趣，也一直被網站的設計所吸引，那種引人入勝的介面，以及流暢的用戶體驗，深深地吸引著我。當我開始學習HTML、CSS和JavaScript並嘗試從0畫出Wireframe時，更是意識到了解網頁邏輯以及網頁體驗是如此重要，隨著我不斷深入研究，我開始意識到UI/UX設計是網頁成功的關鍵。優秀的UI設計能夠為網站注入生命力，吸引用戶的眼球；而出色的UX設計則能夠確保用戶在網站上的舒適度和滿意度。</description>
     </item>
     
     <item>
-      <title>The 12 week year－12週年計畫，化身時間管理大師，閱讀力大爆發！</title>
+      <title>掌握數據之美 與AI一起化身數據畫家</title>
+      <link>https://edieyt.github.io/blog/post-6/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-6/</guid>
+      <description>揭開數據視覺化魔法的神祕面紗 ✔ 你也是想用數據說出好故事嗎？
+✔ 你也是想發揮資料視覺化工具的強大嗎？
+快來試試與AI攜手，創作屬於你的數據藝術吧！ 在這個大數據時代，數據的產生和收集已無所不在，這些數據不僅在商業世界中扮演著關鍵角色，更在個人和社會層面產生深遠的影響。掌握數據之美意味著不僅要善用數據，還需要懂得利用數據來講述有意義的故事，並意識到數據對我們個人和社會的影響。儘管數據本身可能是枯燥的，但它蘊藏著豐富的信息，如何在這龐大的數據中提取有用的信息，數據清洗與整理將會是關鍵步驟，而AI在此時將會是我們的好幫手。
+當我們獲得了更準確可信的數據後，圖表製作成為故事傳達的關鍵一環，而現今，AI如ChatGPT與Excel、Tableau、Flourish等數據可視化工具的結合，讓我們更能夠表現數據之美、讓數據化身為一幅幅令人驚嘆的畫作，如何使用AI下Prompt與這些工具來製作圖表，網路上也有許多教學，或是可以嘗試用網頁程式碼做圖表，例如對著生成式AI說這句咒語：
+請幫我按造以下數據生成一個專業的網頁互動雷達圖程式碼，並將HTML、CSS、Javascript 拆開來：</description>
+    </item>
+    
+    <item>
+      <title>從零開始，前端技術的學習旅程</title>
+      <link>https://edieyt.github.io/blog/post-5/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-5/</guid>
+      <description>程式語言學習之旅從這裡開始 ✔ 你也好奇網站開發的奧秘嗎？
+✔ 你也想擁有自己的專屬網站嗎？
+✔ 你也是想讓程式碼不再是密碼嗎？
+一起來探索程式語言的世界吧！
+當充滿好奇心的我遇上這個猶如魔法一般、由一連串數字和指令所打造的網站，對網站開發自然深感好奇，特別是在過去的工作中曾經參與內部網站改版的專案。那段經歷讓我深刻領悟到，網頁的切版不僅是技術，更是一門學問。在機緣巧合下，我發現了一個結合我最感興趣的AI與前端開發的 2023 軟體工程師體驗營，便毫不猶豫地加入、踏上了學習切版的旅程。</description>
+    </item>
+    
+    <item>
+      <title>2023生成式AI演講，點亮未來新火花</title>
+      <link>https://edieyt.github.io/blog/post-4/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-4/</guid>
+      <description>走進AI的奇幻世界、探索新未來 ✔ 你也好奇AI會如何影響我們的生活嗎？
+✔ 你也對AI如何重新定義未來感到好奇嗎？
+✔ 你也迫不及待想了解AI的未來發展嗎？
+現在，讓我們一起跟著演講的腳步，探索更多、解開AI的魔法，讓AI成為我們的好夥伴吧！
+2022年11月ChatGPT的誕生，掀起了AI新變革。2023年，AIGC的應用持續成為熱門話題之一，引起了廣泛的討論和關注，技術的應用仍在持續發展，其未來的應用場景和創新潛力仍然十分廣闊，人們正積極探索如何將AI術應用到更多、更具體的場景中，提升效率、創造價值與更好的用戶體驗。</description>
+    </item>
+    
+    <item>
+      <title>90天多益950分返現計畫 挑戰成功之真實心得分享</title>
+      <link>https://edieyt.github.io/blog/post-3/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://edieyt.github.io/blog/post-3/</guid>
+      <description>90天挑戰從這裡開始 ✔ 你也是想要提升英文能力，希望目標真能引領你向前嗎？
+✔ 你也是英文能力已達一定水平，希望能更上層樓嗎？
+✔ 你也是擁有不少英文學習資源，希望學習進度也能大幅向前嗎？
+2個挑戰，5套教材，學習英文居然還有機會獲得額外收入，感謝Word Up陪我走過90天的挑戰 （公開發文並非返現規則要求）</description>
+    </item>
+    
+    <item>
+      <title>The 12 week year-重塑時間節奏Ｘ閱讀習慣</title>
       <link>https://edieyt.github.io/blog/post-2/</link>
-      <pubDate>Mon, 24 Jul 2023 19:00:00 +0800</pubDate>
+      <pubDate>Fri, 30 Jun 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/blog/post-2/</guid>
-      <description>Redefine your &amp;ldquo;year&amp;rdquo; to be 12 weeks long.
-什麼 一年只有12週？!</description>
+      <description>一年只有12週？! 一週一書，週週成長 ✔ 你也是每年制定許多計畫，卻把計畫變成願望？
+✔ 你也是待辦清單永遠列不完，待辦清單變成壓力清單？
+✔ 你也是擁有許多書，進度卻不如數量多？
+用12週，重新思考閱讀與時間，探索閱讀與生活的美妙連結</description>
     </item>
     
     <item>
@@ -33,9 +89,11 @@
       <pubDate>Wed, 31 May 2023 19:00:00 +0800</pubDate>
       
       <guid>https://edieyt.github.io/blog/post-1/</guid>
-      <description>Hahow從零開始的學習挑戰賽
-從此不再讓學習成為最後一個待辦事項 你也是在充實多彩的生活中，學習只能排在最後嗎？ 你也是買了許多課，進度卻一直停在 0%？ 你也是沒有目標、沒有督促，提不起勁把課上完？ 你也是孤軍奮戰學習，導致常常半途而廢？ 感謝學習挑戰賽讓我一個月完成7.5堂課，成為今年最棒的生日禮物之一！
-作為一個線上課程愛好者，幾乎在國內外知名的線上平台上皆擁有課程，其中又以Hahow和Udemy的課程數最多，好像總有一種錯覺購課等於學會，隨著課程數量增加，學習到的知識量似乎遠不及Notion線上課程資料庫的增長。</description>
+      <description>不再讓完課成為最後一個待辦事項 ✔ 你也是在充實多彩的生活中，線上學習計畫順序只能往後排？
+✔ 你也是擁有許多課，想獲得更多學習動力？
+✔ 你也是獨自學習，想尋找學伴一同學習與交流？
+感謝Hahow從零開始的學習挑戰賽讓我一個月內完成8堂課＋第一個Github架站，成為今年最棒的生日禮物之一！
+作為一個線上課程愛好者，我的課程清單幾乎涵蓋了國內外知名線上平台，其中又以Hahow和Udemy的課程數最多，隨著課程數量增加，學習到的知識量似乎遠不及Notion線上課程資料庫的增長。</description>
     </item>
     
   </channel>
